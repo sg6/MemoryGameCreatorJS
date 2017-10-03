@@ -1,4 +1,4 @@
-#MemoryGameCreatorJS
+# MemoryGameCreatorJS
 
 Creates a HTML file for printing out a memory game.
 
